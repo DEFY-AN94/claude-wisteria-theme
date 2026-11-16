@@ -1,0 +1,5 @@
+{
+  "name": "claude-wisteria-theme",
+  "owner": { "name": "DEFY-AN94" },
+  "plugins": [{ "name": "wisteria", "source": "./" }]
+}
